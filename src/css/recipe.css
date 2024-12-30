@@ -1,0 +1,81 @@
+.title{
+    margin-bottom: 20px;
+}
+.back-btn{
+    position:absolute;
+    left:50px;
+    top:25px;
+}
+.recipe-el{
+     margin-bottom: 20px;
+}
+.hover:hover{
+    cursor:pointer;
+    opacity: 0.6;
+}
+.recipe-name{
+    font-size: 20px!important;
+}
+
+.recipe-img{
+    height:350px!important;
+}
+
+.recipe-meal{
+    margin-bottom: 20px; 
+}
+
+.recipe-dish{
+    margin-bottom: 20px; 
+}
+
+.recipe-time{
+    margin-bottom: 20px; 
+}
+
+.recipe-diet{
+    margin-bottom: 20px; 
+}
+
+.recipe-healthLabels{
+    margin-bottom: 20px; 
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.recipe-cautions{
+    margin-bottom: 20px; 
+}
+
+.recipe-ingredientLines{
+    margin-bottom: 20px; 
+}
+
+.recipe-servings{
+    margin-bottom: 20px; 
+}
+
+.recipe-kcal{
+    margin-bottom: 20px; 
+}
+
+.recipe-protein{
+    margin-bottom: 20px; 
+}
+
+.recipe-fat{
+    margin-bottom: 20px; 
+}
+
+.recipe-carbs{
+    margin-bottom: 20px; 
+}
+
+.recipe-cholesterol{
+    margin-bottom: 20px; 
+}
+
+
+.recipe-sodium{
+    margin-bottom: 20px; 
+}
